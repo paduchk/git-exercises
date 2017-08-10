@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-iiiiq
+fssdiiiq
 a
 a
 a
