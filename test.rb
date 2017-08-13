@@ -1,10 +1,14 @@
 faaaawaeessdiiiq
 a
+
 sssss
 a
+
+sss
+>>>>>>> iss53
 a
 fsfsdf
-=======
+
 sadaasdsdfsf
 as
 sdf
@@ -13,4 +17,4 @@ dasf
 f
 dasf
 aaaa
->>>>>>> testing
+
